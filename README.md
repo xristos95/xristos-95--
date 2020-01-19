@@ -1,2 +1,4 @@
 # xristos-95--
-just anothe repository 
+just another repository 
+
+Hi, this paragraph is used to inform the general public about the curricullum vitae of Christos 
